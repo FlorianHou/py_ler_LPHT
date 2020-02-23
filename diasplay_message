@@ -1,0 +1,4 @@
+def dispaly_message():
+	print("I am learing Python!")
+	
+dispaly_message()
